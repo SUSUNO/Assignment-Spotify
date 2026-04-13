@@ -15,7 +15,7 @@ const albums = [
     },
     {
         id: 2,
-        title: "billie eilish",
+        title: "Billie Eilish",
         artist: "Billie Eilish",
         cover: "assets/album2.jpg",
         bgColor: "rgba(35, 80, 100, 1)",
@@ -29,7 +29,7 @@ const albums = [
     },
     {
         id: 3,
-        title: "Taylor Swift Album",
+        title: "Taylor Swift",
         artist: "Taylor Swift",
         cover: "assets/album3.jpg",
         bgColor: "rgba(100, 70, 70, 1)",
